@@ -1,2 +1,2 @@
 # control_repo
-Puppet/Control_repo_testing
+This is a Puppet/Control_repo for testing 
